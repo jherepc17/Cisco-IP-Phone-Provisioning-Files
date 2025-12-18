@@ -1,4 +1,4 @@
-<device>
+.<device>
     <deviceProtocol>SIP</deviceProtocol>
     <sshUserId>[== DEVICE SSH ID ==]</sshUserId>
     <sshPassword>[== DEVICE SSH PASSWORD ==]</sshPassword>
